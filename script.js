@@ -142,7 +142,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const allPhotos = [];
     // Gerar lista de 30 fotos (foto1.jpg até foto30.jpg)
     for (let i = 1; i <= 30; i++) {
-        allPhotos.push(`foto${i}.jpg`);
+        allPhotos.push(`Foto${i}.jpg`);
     }
 
     const gallerySlots = document.querySelectorAll('.gallery-slot img');
