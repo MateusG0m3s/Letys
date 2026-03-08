@@ -72,7 +72,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const surpriseSection = document.getElementById('surprise-section');
     const typewriterText = document.getElementById('typewriter-text');
 
-    const specialMessage = "Eu te amo mais do que as palavras podem expressar. Você é a mulher da minha vida!";
+    const specialMessage = "Eu te amo mais do que as palavras podem expressar. Aproveite o seu dia!";
     let i = 0;
 
     function typeWriter() {
